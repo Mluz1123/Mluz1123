@@ -72,10 +72,6 @@
 ## GitHub activity
 
 <p align="left">
-  <img alt="mluz1123's Stats" src="https://github-readme-stats.vercel.app/api?username=mluz1123&theme=vue&show_icons=true&hide_border=false&count_private=false" />
-</p>
-
-<p align="left">
   <img alt="mluz1123's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mluz1123&theme=vue&hide_border=false" />
 </p>
 
