@@ -72,23 +72,12 @@
 ## GitHub activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Mluz1123&theme=kanagawa-paper&locale=es" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mluz1123&show_icons=true&theme=tokyonight" />
-  </a>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluz1123&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Mluz1123&theme=onedark&row=1&column=7" />
-  </a>
-</p>
-
 ---
 
 ## Featured projects
@@ -104,3 +93,12 @@
 - LinkedIn: https://www.linkedin.com/in/manuel-fernando-quintero-gomez
 - Email: maluz1123@gmail.com
 - Website: https://manuel-quintero-developer.netlify.app/
+
+---
+
+## Basado en el repositorio de:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Mluz1123&theme=onedark&row=1&column=7" />
+  </a>
+</p>
