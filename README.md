@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the src with your own logo image URL if you want -->
-  <img src="https://raw.githubusercontent.com/Mluz1123/Mluz1123/main/assets/logo.png" alt="Mluz1123 logo" width="140" />
+  <img src="assets/portafolioimg.png" alt="Manuel logo" width="140" />
 </p>
 
 <h1 align="center">Hi, I'm Manuel Fernando Quintero Gómez 👋</h1>
