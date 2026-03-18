@@ -5,7 +5,7 @@
   <img src="assets/portafolioimg.png" alt="Manuel logo" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Manuel Fernando Quintero Gómez 👋</h1>
+<h1 align="center">Hey, I'm Manuel! 👋</h1>
 <p align="center">
   Full‑Stack Software Developer (Frontend‑focused) • React / TypeScript • +5 years of experience
 </p>
