@@ -51,6 +51,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-20232A?logo=springboot&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/PHP-20232A?logo=php&logoColor=777BB4)
 
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-20232A?logo=flutter&logoColor=02569B)
+![React%20Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+
 ### Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&logoColor=47A248)
