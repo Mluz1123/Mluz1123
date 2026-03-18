@@ -99,5 +99,6 @@
 ## Basado en el repositorio de:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    GitHub Profile Trophy
   </a>
 </p>
