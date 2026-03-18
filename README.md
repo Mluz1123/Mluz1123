@@ -70,15 +70,19 @@
 ---
 
 ## GitHub activity
+
 <p align="left">
-  ![mluz1123's Stats](https://github-readme-stats.vercel.app/api?username=mluz1123&theme=vue&show_icons=true&hide_border=false&count_private=false)
+  <img alt="mluz1123's Stats" src="https://github-readme-stats.vercel.app/api?username=mluz1123&theme=vue&show_icons=true&hide_border=false&count_private=false" />
 </p>
+
 <p align="left">
-  ![mluz1123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mluz1123&theme=vue&hide_border=false)
+  <img alt="mluz1123's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mluz1123&theme=vue&hide_border=false" />
 </p>
+
 <p align="left">
-  ![mluz1123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mluz1123&theme=vue&show_icons=true&hide_border=false&layout=compact)
+  <img alt="mluz1123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluz1123&theme=vue&show_icons=true&hide_border=false&layout=compact" />
 </p>
+  
 ---
 
 ## Featured projects
