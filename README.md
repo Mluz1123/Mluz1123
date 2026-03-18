@@ -71,11 +71,11 @@
 
 ## GitHub activity
 
-<p align="center">
+<p align="left">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Mluz1123&theme=kanagawa-paper&locale=es" />
 </p>
 
-<p align="center">
+<p align="left">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluz1123&layout=compact&theme=tokyonight" />
 </p>
 ---
