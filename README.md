@@ -99,6 +99,5 @@
 ## Basado en el repositorio de:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Mluz1123&theme=onedark&row=1&column=7" />
   </a>
 </p>
