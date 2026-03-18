@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the src with your own logo image URL if you want -->
-  <img src="assets/portafolioimg.png" alt="Manuel logo" width="100%" />
+  <img src="assets/logoManuel.png" alt="Manuel logo" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Manuel! 👋</h1>
