@@ -71,11 +71,10 @@
 
 ## GitHub activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mluz1123&theme=everforest-light&locale=es)](https://git.io/streak-stats)
+![mluz1123's Stats](https://github-readme-stats.vercel.app/api?username=mluz1123&theme=vue&show_icons=true&hide_border=false&count_private=false)
+![mluz1123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mluz1123&theme=vue&hide_border=false)
+![mluz1123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mluz1123&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
-<p align="left">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mluz1123&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ## Featured projects
